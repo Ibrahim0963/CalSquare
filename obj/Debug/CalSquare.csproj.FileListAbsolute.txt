@@ -1,0 +1,7 @@
+C:\Users\Laptop\source\repos\ConsoleApp4\CalSquare\bin\Debug\CalSquare.exe.config
+C:\Users\Laptop\source\repos\ConsoleApp4\CalSquare\bin\Debug\CalSquare.exe
+C:\Users\Laptop\source\repos\ConsoleApp4\CalSquare\bin\Debug\CalSquare.pdb
+C:\Users\Laptop\source\repos\ConsoleApp4\CalSquare\obj\Debug\CalSquare.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\ConsoleApp4\CalSquare\obj\Debug\CalSquare.exe
+C:\Users\Laptop\source\repos\ConsoleApp4\CalSquare\obj\Debug\CalSquare.pdb
+C:\Users\Laptop\source\repos\ConsoleApp4\CalSquare\obj\Debug\CalSquare.csprojAssemblyReference.cache
